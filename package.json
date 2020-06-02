@@ -58,7 +58,7 @@
     "streamqueue": "^1.1.1"
   },
   "dependencies": {
-    "dialog-polyfill": "^0.4.7",
+    "dialog-polyfill": "^0.5.1",
     "material-design-lite": "^1.2.0"
   },
   "peerDependencies": {
